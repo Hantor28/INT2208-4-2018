@@ -8,6 +8,7 @@
 ## Tổng quan module
 ### Tổng quan
 Trong module này, chúng ta sẽ khám phá quy trình phát triển phần mềm có thể giúp tạo ra đa dạng các hoạt động phức tạp để xây dựng hệ thống hiện đại như thế nào. Sử dụng trong công nghiệp, chúng tôi sẽ thảo luận về những lợi ích và hạn chế của từng phương pháp, cũng như cách chọn quy trình tốt nhất cho nhóm và dự án cụ thể của bạn.
+---
 ### Mục tiêu
 1. Tìm hiểu về các bên liên quan và các loại tài liệu họ sử dụng để liên lạc trong quá trình phát triển phần mềm.
 2. Tìm hiểu về quy trình phần mềm truyền thống, bao gồm cả phương thức thác nước và xoắn ốc.
