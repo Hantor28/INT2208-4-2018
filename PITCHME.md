@@ -90,7 +90,7 @@ Trong module này, chúng ta sẽ khám phá quy trình phát triển phần m�
 
     - Đưa ra nhiệm vụ, mục tiêu kinh doanh, và yêu cầu bản thân.
     - Chủ yếu dành cho bên quản lý, người dùng, bán hàng ( những bên xác định hệ thống cần chức năng gì ) 
-
+--- 
 - Development
 
     - Kế hoạch kiến trúc hệ thống, kế hoạch thiết kế, kế hoạch thực hiện
