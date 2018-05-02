@@ -176,7 +176,11 @@ Các đơn vị chương trình được tích hợp lại với nhau tạo thà
 #### Nhược điểm:
 * Không phù hợp với dự án lớn.
 * Thời gian thực hiện lâu.
-Phương pháp xoắn ốc Phương pháp xoắn ốc xuất hiện trong những năm 1980 như là một sự cải tiến đối với những thiếu sót của các chiến lược phát triển thác nước truyền thống. Trong mô hình xoắn ốc, điều quan trọng cần lưu ý là chúng ta sẽ tạo ra sản phẩm nhiều lần, có thể xác nhận với khách hàng trước khi chúng ta tiếp tục phát triển và mở rộng sản phẩm.
+
+
+Phương pháp xoắn ốc 
+Phương pháp xoắn ốc xuất hiện trong những năm 1980 như là một sự cải tiến đối với những thiếu sót của các chiến lược phát triển thác nước truyền thống. Trong mô hình xoắn ốc, điều quan trọng cần lưu ý là chúng ta sẽ tạo ra sản phẩm nhiều lần, có thể xác nhận với khách hàng trước khi chúng ta tiếp tục phát triển và mở rộng sản phẩm.
+
 1.	Lên kế hoạch Sự khởi đầu khi phát triển dự án theo phương pháp xoắn ốc,điều đầu tiên chúng ta cần làm, chính là lập kế hoạch. Đây là nơi chúng ta tìm ra những yêu cầu cho phiên bản, cho nguyên mẫu trong tương lai.
 ________________________________________
 2.	Phân tích rủi ro Tiếp theo, chúng ta sẽ đi vào phân tích rủi ro. Trong phân tích rủi ro, chúng ta sẽ tìm ra những gì có thể sai. Các nguồn rủi ro có trong phiên bản, trong nguyên mẫu này là gì?
