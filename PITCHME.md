@@ -190,6 +190,7 @@ ________________________________________
 4.	Xác nhận Trong giai đoạn xác nhận của một dự án với mô hình xoắn ốc, chúng ta sẽ lấy nguyên mẫu và kiểm tra với khách hàng để chắc chắn rằng nó thực sự xây dựng và cung cấp chức năng mà họ thực sự muốn. Chúng ta sẽ chủ động thu thập phản hồi của khách hàng ở đây.
 ________________________________________
 Ưu điểm: Xây dựng một sản phẩm sai có lẽ là nguyên nhân phổ biến nhất khiến các hệ thống thất bại trong thực tế. Mô hình xoắn ốc thực sự đang cố gắng để giải quyết rủi ro này bằng cách kết nối với khách hàng cuối mỗi phiên bản thiết kế để chắc chắn rằng sản phẩm đáp ứng nhu cầu của họ.
+---
 Nhược điểm: Chờ phản hồi của khách hàng cũng có thể thực sự làm chậm quá trình phát triển phần mềm. Khách hàng có thể trì hoãn hoặc đưa ra phản hồi ngay lập tức.
 
 
